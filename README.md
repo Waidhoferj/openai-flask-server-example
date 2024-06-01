@@ -18,7 +18,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## Using with Librechat
+## Using with LibreChat
 
 ### Natively
 
